@@ -1,2 +1,2 @@
 # Acatlan
-Curos  IOS
+Curso  IOS
